@@ -1,0 +1,4 @@
+http://localhost:15463/FileAPI/GetFile?id=c28d099e-b1e0-4c53-a9a0-f7f8ae1e6523
+
+http://localhost:15463/FileAPI/Upload
+

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UploadAndDown", "UploadAndDown\UploadAndDown.csproj", "{B0315795-7E3C-4DE1-9356-64A3AE836BD2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UploadAndDown.Test", "UploadAndDown.Test\UploadAndDown.Test.csproj", "{316B4416-190D-4E65-BA27-F3276332F47E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0315795-7E3C-4DE1-9356-64A3AE836BD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0315795-7E3C-4DE1-9356-64A3AE836BD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0315795-7E3C-4DE1-9356-64A3AE836BD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0315795-7E3C-4DE1-9356-64A3AE836BD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{316B4416-190D-4E65-BA27-F3276332F47E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{316B4416-190D-4E65-BA27-F3276332F47E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{316B4416-190D-4E65-BA27-F3276332F47E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{316B4416-190D-4E65-BA27-F3276332F47E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F219808-E6E8-4C1D-B846-41F2F7CF20FA}
+	EndGlobalSection
+EndGlobal
